@@ -4,6 +4,8 @@
 Factory reset Philips Hue bulbs using a SkyConnect USB Stick
 Heavily inspired by https://github.com/vanviegen/hue-thief but also includes a lot of changes.
 
+You can find the original work under the branch original in case you want to compare change differentions since it's not a direct fork.
+
 ## Installation
 
 Make sure you have python v3 and pip. (`sudo apt-get install python3-pip`)
