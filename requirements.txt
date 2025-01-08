@@ -1,0 +1,4 @@
+bellows>=0.35.0
+pyserial-asyncio>=0.6
+attrs>=21.2.0
+
