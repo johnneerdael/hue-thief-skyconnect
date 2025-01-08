@@ -26,10 +26,10 @@ python3 hue-thief /dev/ttyUSB0
 
 `/dev/ttyUSB0` should be your EZSP device. You should have full permissions on this device file.
 
-'''sh
+```sh
 sudo usermod -a -G dialout $USER
 sudo chmod 666 /dev/ttyUSB0
-'''
+```
 
 
 ## Problems
